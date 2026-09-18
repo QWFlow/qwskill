@@ -1,0 +1,4 @@
+interface:
+  display_name: "qws-interview"
+  short_description: "通过连续知识采访，交付完整记录与逻辑连贯、可核验的知识稿"
+  default_prompt: "Use $qws-interview to interview me one question at a time, preserve the complete conversation, and synthesize my answers into a coherent reader-oriented knowledge article with traceable conclusions, reasoning, evidence, and boundaries. After freezing the Writer's article, actively search for and verify mature theories that may explain its important mechanisms; annotate only reliable theories that add explanatory value, and do not force a theory when none fits. Deliver the record and knowledge article without automatically creating a separate script."
