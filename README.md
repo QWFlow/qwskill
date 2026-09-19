@@ -1,4 +1,3 @@
-
 # qws-interview
 
 这次开源的是一个 AI 采访 skill。
