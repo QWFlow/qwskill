@@ -118,12 +118,26 @@ qwskill/
 
 运行时文件只保留可执行规则；以下内容说明这些规则的来源，不是知识稿必须出现的理论，也不增加采访、写作或理论标注步骤。
 
+### 知识提取与校验
+
 - 迈克尔·波兰尼的默会知识理论提醒我们：我们所知道的，多于我们所能言传的。
-- 认知任务分析与关键决策法用于从真实事件、线索、选项、判断和后果中提取专家知识；Whetten 的 what／how／why 与 who／where／when 用于检查解释与边界；Popper 与 Kuhn 提供反例、框架和异常的检验意识。
-- QUD 用于维护主问题、子问题、推进关系和返回位置，参考 Craige Roberts 的 [Information Structure in Discourse](https://semanticsarchive.net/Archive/WYzOTRkO/InfoStructure.pdf)。解释型问题再用 van Fraassen 的 `P–X–R` 区分待解释现象、对比预期和解释类型，参考 [The Pragmatic Theory of Explanation](https://fitelson.org/290/vanfraassen_pte.pdf)。
+- 野中郁次郎与竹内弘高的 SECI 模型用于解释隐性知识如何通过“外化”转为显性知识，参考 [The Knowledge-Creating Company](https://academic.oup.com/book/52097)。
+- 认知任务分析与关键决策法用于从真实事件、线索、选项、判断和后果中提取专家知识。
+- Whetten 的 what／how／why 与 who／where／when 用于检查解释与边界。
+- Popper 与 Kuhn 提供反例、框架和异常的检验意识。
+
+### 问题与观点组织
+
+- QUD 用于维护主问题、子问题、推进关系和返回位置，参考 Craige Roberts 的 [Information Structure in Discourse](https://semanticsarchive.net/Archive/WYzOTRkO/InfoStructure.pdf)。
+- van Fraassen 的 `P–X–R` 用于区分待解释现象、对比预期和解释类型，参考 [The Pragmatic Theory of Explanation](https://fitelson.org/290/vanfraassen_pte.pdf)。
 - Jobs to Be Done 只校验文章是否帮助读者推进理解或判断，不决定文章中心、观点顺序和材料去留，参考 [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)。
-- Linda Flower 的 Writer-Based／Reader-Based Prose 用于检查作者材料是否已经转成读者可重建的表达，参考 [Writer-Based Prose](https://doi.org/10.58680/ce197916016)。Kintsch 与 van Dijk 的文本微观与宏观结构用于检查局部和全文连贯，参考 [Toward a Model of Text Comprehension and Production](https://doi.org/10.1037/0033-295X.85.5.363)。
-- [ISO 24495-1:2023](https://www.iso.org/standard/78907.html) 用于检查相关、易找、易懂和可用；冗余效应用于检查无独立作用的重复，但不能机械删除观点、证据、逻辑连接或边界，参考 [The Redundancy Principle in Multimedia Learning](https://doi.org/10.1017/CBO9781139547369.013)。
+
+### 写作与可读性
+
+- Linda Flower 的 Writer-Based／Reader-Based Prose 用于检查作者材料是否已经转成读者可重建的表达，参考 [Writer-Based Prose](https://doi.org/10.58680/ce197916016)。
+- Kintsch 与 van Dijk 的文本微观与宏观结构用于检查局部和全文连贯，参考 [Toward a Model of Text Comprehension and Production](https://doi.org/10.1037/0033-295X.85.5.363)。
+- [ISO 24495-1:2023](https://www.iso.org/standard/78907.html) 用于检查相关、易找、易懂和可用。
+- 冗余效应用于检查无独立作用的重复，但不能机械删除观点、证据、逻辑连接或边界，参考 [The Redundancy Principle in Multimedia Learning](https://doi.org/10.1017/CBO9781139547369.013)。
 
 这些框架只解释采访、观点契约和 Writer 规则为什么成立，不证明采访主题中的商业、心理或社会结论。主题理论仍须针对正文中的具体解释缺口单独检索和核验，不得用这些设计依据直接替代。
 
